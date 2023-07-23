@@ -1,9 +1,7 @@
 # Dashboards-Reports
-!image(![image](https://github.com/ConatusForever/Dashboards-Reports/assets/84429597/55e7d1f6-378a-458e-b86c-73e9efb37cfb))
+!image(![image](https://github.com/ConatusForever/Dashboards-Reports/assets/84429597/55e7d1f6-378a-458e-b86c-73e9efb37cfb)
 
---
-
-Key Features:
+### Key Features:
 
 **Rich Visualizations**: Our Completed Dashboards Showcase boasts visually stunning and informative graphs, charts, and maps that effectively communicate complex data trends and patterns. From simple line charts to intricate heatmaps, each dashboard presents information in an engaging and easy-to-understand manner.
 
