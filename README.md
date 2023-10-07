@@ -1,5 +1,5 @@
 # My Dashboards-Reports Portfolio
-![image](""C:\Users\hakee\OneDrive\DataAnalysis\Data Analysis Practice\EDA\WoW\WoW2023.png"")
+![image]("C:\Users\hakee\OneDrive\DataAnalysis\Data Analysis Practice\EDA\WoW\WoW2023.png")
 
 Welcome to my captivating Data Visualization Project Portfolio, where data meets artistry to weave tales of insights and possibilities. At the heart of this collection lies a captivating fusion of technology and design, empowering me to distill complex data into visually stunning narratives.
 
