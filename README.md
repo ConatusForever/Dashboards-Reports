@@ -1,5 +1,5 @@
 # My Dashboards-Reports Portfolio
-![image](![image](https://github.com/ConatusForever/Dashboards-Reports/assets/84429597/3b44ae5b-3a84-41d9-8843-5615ad261128)
+![image](https://github.com/ConatusForever/Dashboards-Reports/assets/84429597/3b44ae5b-3a84-41d9-8843-5615ad261128)
 )
 
 Welcome to my captivating Data Visualization Project Portfolio, where data meets artistry to weave tales of insights and possibilities. At the heart of this collection lies a captivating fusion of technology and design, empowering me to distill complex data into visually stunning narratives.
